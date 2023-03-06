@@ -1,0 +1,19 @@
+.option:hover {
+    background-color: #000 !important;
+}
+
+.btn-square-sm {
+    width: 50px !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    height: 50px !important;
+    text-align: center;
+    padding: 0px;
+    font-size:7px;
+    }
+
+.img-logo {
+    height: 40%;
+    width:  60%;
+}
+
